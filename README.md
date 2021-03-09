@@ -7,23 +7,7 @@ We explore the suitability of machine learning as a gap-filling tool for satelli
 
 Key tools:
 
-Python
-
-Sklearn
-
-Pandas
-
-Numpy
-
-Rasterio
-
-Geopandas
-
-Geotools
-
-GEEtools
-
-Geocube 
+Python ;Sklearn ;Pandas ;Numpy; Rasterio; Geopandas; Geotools; GEEtools; Geocube 
 
 
 
