@@ -17,3 +17,11 @@ Elevation and land use data -Estonian Landboard Geoportal
 1 km Grid - Estonian Statistical Service
 MODIS LST and NDVI - Google Earth Engine
 
+Notebooks:
+Data_prep_final.ipynb
+
+baseline_learning_final.ipynb
+
+Land Surface-RF Modelling.ipynb
+
+Export_LST.ipynb
