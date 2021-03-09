@@ -6,18 +6,37 @@ Isaac Buo, Valentina Sagris, and Jaak Jaagus.
 We explore the suitability of machine learning as a gap-filling tool for satellite land surface tempereature. Because heatwaves have a limited temporal frame, having a full and cloud-free complement of LST for that period is necessary
 
 Key tools:
+
+Python
+
 Sklearn
+
+Pandas
+
+Numpy
+
 Rasterio
+
 Geopandas
+
 Geotools
+
 GEEtools
 
+Geocube 
+
+
+
 Data and Sources:
+
 Elevation and land use data -Estonian Landboard Geoportal 
+
 1 km Grid - Estonian Statistical Service
+
 MODIS LST and NDVI - Google Earth Engine
 
 Notebooks:
+
 Data_prep_final.ipynb
 
 baseline_learning_final.ipynb
